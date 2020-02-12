@@ -1,0 +1,10 @@
+To connect to expo: npm start
+Then, scan QR code
+
+Push all files to git(save work first!):
+git add -A
+git commit -m "message"
+git push -u origin master
+
+Pull files:
+git pull origin master
