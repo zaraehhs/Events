@@ -5,7 +5,7 @@ Push all files to git(save work first!):
 git add -A
 git commit -m "message"
 git push -u origin master
-// git push -u rhea
+// git push -u origin rhea
 
 Pull files:
 git pull origin master
