@@ -1,0 +1,28 @@
+To connect to expo: npm start
+Then, scan QR code
+
+Push all files to git(save work first!):
+git add -A
+git commit -m "message"
+git push -u origin master
+// git push -u rhea
+
+Pull files:
+git pull origin master
+
+App name: Centure
+
+Home -> Categories
+Articles -> Events
+Components -> Map
+Profile
+Account
+
+Hierarchy:
+Categories -> Events -> Individual Event Profile
+Map pinpoint -> Individual Event Profile
+
+Rhea:
+
+
+Zara:
